@@ -1,0 +1,2 @@
+# CutString
+using jieba
